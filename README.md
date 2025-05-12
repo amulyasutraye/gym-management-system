@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **GYM Management System** is a web-based application designed to digitize gym operations like billing, notifications, and member management. It addresses the problem of paper-based receipts and manual communication by providing a centralized and secure digital system. Built using **HTML**, **CSS**, **JavaScript**, and **Firebase**, this application simplifies the management of gym members, fee tracking, and notifications.
+The **GYM Management System** is a web-based application designed to digitize gym operations like billing, notifications, and member management. It addresses the problem of paper-based receipts and manual communication by providing a centralized and secure digital system. Built using **React**, and **Firebase**, this application simplifies the management of gym members, fee tracking, and notifications.
 
 ---
 
@@ -29,7 +29,7 @@ The **GYM Management System** is a web-based application designed to digitize gy
 ---
 
 ## 🔧 Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: React
 - **Backend / Database**: Firebase
 - **Logging**: JavaScript logging (planned for actions tracking)
 - **Deployment**: Can be hosted on local or cloud platforms (recommend Firebase Hosting)
