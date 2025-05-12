@@ -85,8 +85,3 @@ The **GYM Management System** is a web-based application designed to digitize gy
 - ✅ Logging and Firebase integration included
 
 ---
-
-## 📸 Screenshots & Demo
-(Include screenshots or a video demo link here, if available)
-
----
